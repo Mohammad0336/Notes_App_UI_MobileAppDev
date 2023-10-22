@@ -7,4 +7,6 @@
     <string name="edit1">Title</string>
     <string name="edit2">Description</string>
     <string name="button1">Save Note</string>
+    <string name="button2">Cancel</string>
+    <string name="empty">o</string>
 </resources>
